@@ -1,1 +1,8 @@
 hello just another practise
+tagging
+rebase
+reset
+clone
+amend
+filter
+

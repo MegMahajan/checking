@@ -1,0 +1,11 @@
+main{
+<<<<<<< HEAD
+	funtion2{
+         //dev2 code
+	}
+=======
+ funtion1(){
+  //dev1 code
+ }
+>>>>>>> dev1
+}
