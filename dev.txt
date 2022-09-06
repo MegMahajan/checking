@@ -1,0 +1,5 @@
+main{
+	funtion2{
+         //dev2 code
+	}
+}
