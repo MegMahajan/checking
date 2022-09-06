@@ -1,5 +1,11 @@
 main{
-	funtion2{
-         //dev2 code
-	}
+
+funtion2{
+  //dev2 code
+}
+
+ funtion1(){
+  //dev1 code
+}
+
 }
