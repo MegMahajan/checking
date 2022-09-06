@@ -1,0 +1,16 @@
+devops revision
+git first
+docker sec
+kubernetes third
+jenkins fourth
+ansible fifth
+nagios sixth
+terraform seventh
+maven 8
+elk 9 
+aws 10 
+linux 11
+java 12
+python 13
+mysql 14
+rest 15
